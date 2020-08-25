@@ -4,21 +4,21 @@
 // The name of your server goes here.
 $servertitle = "DesireGaming";
 
-// *REQUIRED* Replace below with your server IP, if you're hosting the loading screen alongside your gameserver on the same server instead of a web host, keep it as is! 
+// *REQUIRED* Replace below with your server IP, if you're hosting the loading screen alongside your gameserver on the same server instead of a web host, keep it as is!
 $serverip = "172.96.164.98";
 
 // *REQUIRED* Set the port of your server here, this is typically 27015!
 $serverport = "27045";
 
 // *REQUIRED* You can obtain a Steam API Key at http://steamcommunity.com/dev/apikey
-$SteamAPIKey = "ED28EF409A3739F576BE0DE90672DE33";
+$SteamAPIKey = "9D10FBA6BA2A9628719D9B297084A92F";
 
 // Sets the stripe color on your boxes, leave blank to have no stripe.
 // Please use hex codes, and don't forget the #. You can find hex codes at http://colorpicker.com/
-$color = "#FF8800"; 
+$color = "#FF8800";
 
 // There is a slight dark tint over the backgrounds, true = on, false = off.
-$bgtint = true; 
+$bgtint = true;
 
 // If you have tint enabled, here you can edit how dark the tint is, highest = 1 (solid), lowest = 0 (transparent)
 $bgtintlevel = "0.2";
@@ -42,7 +42,7 @@ $headerlogo = false;
 
 /*----------------------------------------------------------DESCRIPTION BOX----------------------------------------------------------*/
 // Text that shows at the top of the description box (If your mode includes the box).
-$descriptionheading = "this is DesireGaming were a small community expaniding looking for staff when needed and dedicated players enjoy your stay"; 
+$descriptionheading = "this is DesireGaming were a small community expaniding looking for staff when needed and dedicated players enjoy your stay";
 
 // Do you want the text to align to the right, left, center or to justify over the whole width?
 // Options: left || right || justify || center
